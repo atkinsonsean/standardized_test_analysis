@@ -7,6 +7,7 @@
 [The data](#section_3)<br>
 [So, are standardized tests unfair?](#section_4)<br>
 [So, we should scrap standardized testing, right?](#section_5)<br>
+[Datasets and libraries used](#section_6)<br>
 
 
 <a id='section_1'></a>
@@ -108,3 +109,17 @@ On the other hand:
 - <a href="https://theconversation.com/simply-scrapping-the-sat-wont-make-colleges-more-diverse-140042">That same year, underrepresented minorities made up 45% of the state’s population but only 26% of UC’s enrollment.</a>
 
 Consequently, while the data leads me to believe that standardized tests unjustly favour certain parts of the population, if the only thing you do to address that is remove them, campuses will look no different than they do today.
+
+<a id='section_6'></a>
+# Datasets and libraries used
+[(Back to table of contents)](#table_of_contents)<br>
+
+Datasets:
+- <a href="https://www.cde.ca.gov/ds/sp/ai/">2019 ACT Scores in California by School</a>
+- <a href="https://www.cde.ca.gov/ds/sp/ai/">2020 ACT Scores in California by School</a>
+- <a href="https://www.cde.ca.gov/ds/sp/ai/">2019 SAT Scores in California by School</a>
+- <a href="https://www.cde.ca.gov/ds/sp/ai/">2020 SAT Scores in California by School</a>
+- <a href="https://wallethub.com/edu/e/most-least-equitable-school-districts-in-california/77056">https://wallethub.com/edu/e/most-least-equitable-school-districts-in-california/77056</a>
+- District Enrollment by Ethnicity (I compiled this myself with information provided by <a href="https://dq.cde.ca.gov/dataquest/">DataQuest.</a>
+
+Libraries: matplotlib, numpy, pandas, seaborn, and sklearn.
