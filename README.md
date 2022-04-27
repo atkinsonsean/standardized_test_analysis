@@ -12,6 +12,8 @@ Make sure to uploaded updated file versions for this and all other projects.
 [Problem Statement](#section_2)<br>
 [The data](#section_3)<br>
 [So, are standardized tests unfair?](#section_4)<br>
+[So, we should scrap standardized testing, right?](#section_5)<br>
+
 
 <a id='section_1'></a>
 # BACKGROUND
@@ -77,6 +79,35 @@ There’s a slight relationship between income and strong scores, but it’s not
 
 It’s a similar story, though the relationship between income and strong scores is a little strong here:
 
-![Top r/LiverpoolFC features](https://imgur.com/IndKqaY)
+![And it's no surprised that household income plays a role in the SAT too](https://i.imgur.com/IndKqaY.jpg)
 
+These test results are from 2020.
 
+How about participation rates?
+
+Well, there is some connection with the ACT: 
+
+![ACT participation rates and household income](https://i.imgur.com/df7XHEX.jpg)
+
+As income rises, so do participation rates.
+
+But the SAT isn’t as clear cut.
+
+![SAT participation rates and household income](https://imgur.com/5VCKyyH.jpg)
+
+There seems to be a tiny relationship, but not one you’d draw any grand conclusions from.
+
+Still, on the whole, the evidence seems pretty clear that there is a relationship between income and standardized test success.
+
+<a id='section_5'></a>
+# SO, WE SHOULD SCRAP STANDARDIZED TESTING, RIGHT?
+[(Back to table of contents)](#table_of_contents)<br>
+
+Well, that depends.
+
+Simply scrapping standardized tests won’t make colleges more diverse.
+
+<a href="http://www.collegetransitions.com/wp-content/uploads/2014/02/Belascoetal_TestOptional.pdf">A study of 180 liberal arts colleges found that test-optional policies did not increase the numbers of low-income and minority students</a>.
+
+On the other hand:
+- ddd
