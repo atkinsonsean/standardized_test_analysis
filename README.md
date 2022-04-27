@@ -1,6 +1,6 @@
-# STANDARDIZED TEST ANALYSIS
+# Standardized Test Analysis
 
-# TABLE OF CONTENTS
+# Table of Contents
 <a id='table_of_contents'></a><br>
 [Background](#section_1)<br>
 [Problem Statement](#section_2)<br>
@@ -10,7 +10,7 @@
 
 
 <a id='section_1'></a>
-# BACKGROUND
+# Background
 
 I was a private school kid.
 
@@ -43,12 +43,12 @@ Others however claim that they’re unfair and harmful to diversity.
 <a href="https://www.npr.org/sections/ed/2018/04/26/604875394/study-colleges-that-ditch-the-sat-and-act-can-enhance-diversity">Colleges that have gone "test optional" enroll — and graduate — a higher proportion of low-income and first generation-students, and more students from diverse backgrounds, the researchers found in the study, Defining Access: How Test-Optional Works.</a>
 
 <a id='section_2'></a>
-# PROBLEM STATEMENT
+# Problem Statement
 [(Back to table of contents)](#table_of_contents)<br>
 Is standardized testing an equitable measure for student performance?
 
 <a id='section_3'></a>
-# THE DATA
+# The Data
 [(Back to table of contents)](#table_of_contents)<br>
 To answer this question I looked at three areas:
 1. California standardized test scores for both the <a href="https://www.cde.ca.gov/ds/sp/ai/">SAT</a> and <a href="https://www.cde.ca.gov/ds/sp/ai/">ACT</a>.
@@ -56,7 +56,7 @@ To answer this question I looked at three areas:
 3. <a href="https://wallethub.com/edu/e/most-least-equitable-school-districts-in-california/77056">A 2021 study of the most & least equitable school districts in California</a>.
 
 <a id='section_4'></a>
-# SO, ARE STANDARDIZED TESTS UNFAIR?
+# So, Are Standardized Tests Unfair?
 [(Back to table of contents)](#table_of_contents)<br>
 
 Yes.
@@ -94,7 +94,7 @@ There seems to be a tiny relationship, but not one you’d draw any grand conclu
 Still, on the whole, the evidence seems pretty clear that there is a relationship between income and standardized test success.
 
 <a id='section_5'></a>
-# SO, WE SHOULD SCRAP STANDARDIZED TESTING, RIGHT?
+# So, we should scrap standardized testing, right?
 [(Back to table of contents)](#table_of_contents)<br>
 
 Well, that depends.
