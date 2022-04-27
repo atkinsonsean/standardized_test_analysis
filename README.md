@@ -110,4 +110,7 @@ Simply scrapping standardized tests won’t make colleges more diverse.
 <a href="http://www.collegetransitions.com/wp-content/uploads/2014/02/Belascoetal_TestOptional.pdf">A study of 180 liberal arts colleges found that test-optional policies did not increase the numbers of low-income and minority students</a>.
 
 On the other hand:
-- ddd
+- <a href="https://theconversation.com/simply-scrapping-the-sat-wont-make-colleges-more-diverse-140042">In 2019, only 22% of students who enrolled in UC self-identified as Hispanic. But Hispanics, the largest ethnic group in California, make up over 39% of the state’s population.</a>
+- <a href="https://theconversation.com/simply-scrapping-the-sat-wont-make-colleges-more-diverse-140042">That same year, underrepresented minorities made up 45% of the state’s population but only 26% of UC’s enrollment.</a>
+
+Consequently, while the data leads me to believe that standardized tests unjustly favour certain parts of the population, if the only thing you do to address that is remove them, campuses will look no different than they do today.
