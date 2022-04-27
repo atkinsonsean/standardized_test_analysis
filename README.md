@@ -114,7 +114,7 @@ Consequently, while the data leads me to believe that standardized tests unjustl
 # Datasets and libraries used
 [(Back to table of contents)](#table_of_contents)<br>
 
-Datasets:
+<b>Datasets:</b>
 - <a href="https://www.cde.ca.gov/ds/sp/ai/">2019 ACT Scores in California by School</a>
 - <a href="https://www.cde.ca.gov/ds/sp/ai/">2020 ACT Scores in California by School</a>
 - <a href="https://www.cde.ca.gov/ds/sp/ai/">2019 SAT Scores in California by School</a>
@@ -122,4 +122,4 @@ Datasets:
 - <a href="https://wallethub.com/edu/e/most-least-equitable-school-districts-in-california/77056">Most & Least Equitable School Districts in California</a>
 - District Enrollment by Ethnicity (I compiled this myself with information provided by <a href="https://dq.cde.ca.gov/dataquest/">DataQuest.</a>
 
-Libraries: matplotlib, numpy, pandas, seaborn, and sklearn.
+<b>Libraries:</b> matplotlib, numpy, pandas, seaborn, and sklearn.
