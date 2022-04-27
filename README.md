@@ -119,7 +119,7 @@ Datasets:
 - <a href="https://www.cde.ca.gov/ds/sp/ai/">2020 ACT Scores in California by School</a>
 - <a href="https://www.cde.ca.gov/ds/sp/ai/">2019 SAT Scores in California by School</a>
 - <a href="https://www.cde.ca.gov/ds/sp/ai/">2020 SAT Scores in California by School</a>
-- <a href="https://wallethub.com/edu/e/most-least-equitable-school-districts-in-california/77056">https://wallethub.com/edu/e/most-least-equitable-school-districts-in-california/77056</a>
+- <a href="https://wallethub.com/edu/e/most-least-equitable-school-districts-in-california/77056">Most & Least Equitable School Districts in California</a>
 - District Enrollment by Ethnicity (I compiled this myself with information provided by <a href="https://dq.cde.ca.gov/dataquest/">DataQuest.</a>
 
 Libraries: matplotlib, numpy, pandas, seaborn, and sklearn.
