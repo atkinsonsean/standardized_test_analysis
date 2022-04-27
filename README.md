@@ -71,7 +71,7 @@ Initially, I thought this would be a slam dunk, but while there is evidence, it 
 
 Let’s take a look at the percentage of students with ACT composite scores over 21:
 
-![Students who do well on the ACT come from wealthier familiers](https://imgur.com/a/8LS0xcu)
+![Students who do well on the ACT come from wealthier familiers](https://i.imgur.com/IH7ZhOn.jpg)
 
 There’s a slight relationship between income and strong scores, but it’s not as strong as you’d imagine it to be if it had an overwhelming impact.
 
