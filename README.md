@@ -44,12 +44,12 @@ Others however claim that they’re unfair and harmful to diversity.
 <a href="https://www.npr.org/sections/ed/2018/04/26/604875394/study-colleges-that-ditch-the-sat-and-act-can-enhance-diversity">Colleges that have gone "test optional" enroll — and graduate — a higher proportion of low-income and first generation-students, and more students from diverse backgrounds, the researchers found in the study, Defining Access: How Test-Optional Works.</a>
 
 <a id='section_2'></a>
-# Problem Statement
+# Problem statement
 [(Back to table of contents)](#table_of_contents)<br>
 Is standardized testing an equitable measure for student performance?
 
 <a id='section_3'></a>
-# The Data
+# The data
 [(Back to table of contents)](#table_of_contents)<br>
 To answer this question I looked at three areas:
 1. California standardized test scores for both the <a href="https://www.cde.ca.gov/ds/sp/ai/">SAT</a> and <a href="https://www.cde.ca.gov/ds/sp/ai/">ACT</a>.
@@ -57,7 +57,7 @@ To answer this question I looked at three areas:
 3. <a href="https://wallethub.com/edu/e/most-least-equitable-school-districts-in-california/77056">A 2021 study of the most & least equitable school districts in California</a>.
 
 <a id='section_4'></a>
-# So, Are Standardized Tests Unfair?
+# So, are standardized tests unfair?
 [(Back to table of contents)](#table_of_contents)<br>
 
 Yes.
